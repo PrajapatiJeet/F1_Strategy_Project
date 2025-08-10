@@ -33,7 +33,7 @@ This project uses a public Kaggle dataset to develop a machine learning pipeline
 ### **How to Run**
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/PrajapatiJeet/F1_Strategy_Project.git](https://github.com/PrajapatiJeet/F1_Strategy_Project.git)
+    git clone [F1 Strategy Project](https://github.com/PrajapatiJeet/F1_Strategy_Project.git)
     cd F1_Strategy_Project
     ```
 2.  **Kaggle API Key & Data:**
