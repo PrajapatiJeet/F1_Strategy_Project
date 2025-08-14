@@ -1,4 +1,4 @@
-# F1 Race Strategy Analysis: Using Lap Time Prediction to Model Tire Degradation and the Undercut
+# A Data-Driven Approach to F1 Strategy: Modeling the Effects of Tire Degradation on Pace and Undercut Strategy
 
 ### **Project by: Jeet Prajapati**
 
