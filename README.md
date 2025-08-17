@@ -1,5 +1,4 @@
-# A Data-Driven Approach to F1 Strategy: Modeling the Effects of Tire Degradation on Pace and Undercut Strategy
-
+# Formula 1 Race Data Analysis: Tyre Degradation and UnderCut Strategy
 ### **Project by: Jeet Prajapati**
 
 This project uses a public Kaggle dataset to develop a machine learning pipeline for analyzing and simulating Formula 1 race strategy. The core of the project is a pace model that predicts lap times by modeling the effects of tire degradation, which is then used to power higher-level strategic tools like a pit stop predictor and an undercut calculator.
